@@ -1,2 +1,0 @@
-# dsal-code
-pratical
