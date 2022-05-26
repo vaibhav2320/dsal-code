@@ -1,5 +1,7 @@
 /*PRACTICAL:-1
   LINEAR PROBING
+  Telephone book data base information
+  
 */
 
 #include<iostream>
